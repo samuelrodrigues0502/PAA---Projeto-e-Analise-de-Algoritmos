@@ -25,9 +25,9 @@ Neste projeto de programação, você será desafiado a criar um programa em uma
     Naturalmente, como irá receber o quebra-cabeça como entrada, seu programa deve ser capaz de lidar com diferentes quebra-cabeças de Sudoku (ex.: fácil, médio e, quem sabe, difícil). Esse é apenas um lembrete para você não colocar o(s) quebra-cabeça(s) "hard coded" em seu programa. 
 
 EXEMPLO DE ENTRADA:
-0 0 2 0 0 0 5 0 0
-0 1 0 7 0 5 0 2 0
-4 0 0 0 9 0 0 0 7
+0 0 2 0 0 0 5 0 0\n
+0 1 0 7 0 5 0 2 0\n
+4 0 0 0 9 0 0 0 7\n
 0 4 9 0 0 0 7 3 0
 8 0 1 0 3 0 4 0 9
 0 3 6 0 0 0 2 1 0
