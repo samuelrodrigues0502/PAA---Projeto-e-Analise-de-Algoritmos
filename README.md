@@ -1,4 +1,6 @@
 # PAA---Projeto-e-Analise-de-Algoritmos
+# Solver Sudoku Via Força Bruta
+
 ⇒ Título do Projeto: Implementação de um Solver de Sudoku com o paradigma de Força Bruta
 ⇒ Trabalho em grupo de dois discentes (dupla)
 
