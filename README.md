@@ -24,24 +24,24 @@ Neste projeto de programação, você será desafiado a criar um programa em uma
     Você deve IMPRETERIVELMENTE usar um paradigma de Força Bruta (Backtracking OU Branch & Bound) para encontrar a solução do Sudoku. Não serão aceitas soluções que utilizem outros tipos de paradigmas.
     Naturalmente, como irá receber o quebra-cabeça como entrada, seu programa deve ser capaz de lidar com diferentes quebra-cabeças de Sudoku (ex.: fácil, médio e, quem sabe, difícil). Esse é apenas um lembrete para você não colocar o(s) quebra-cabeça(s) "hard coded" em seu programa. 
 
-EXEMPLO DE ENTRADA:
-0 0 2 0 0 0 5 0 0
-0 1 0 7 0 5 0 2 0
-4 0 0 0 9 0 0 0 7
-0 4 9 0 0 0 7 3 0
-8 0 1 0 3 0 4 0 9
-0 3 6 0 0 0 2 1 0
-2 0 0 0 8 0 0 0 4
-0 8 0 9 0 2 0 6 0
-0 0 7 0 0 0 8 0 0
-
-EXEMPLO DE SAÍDA (para a entrada acima):
-9 7 2 8 6 3 5 4 1
-6 1 8 7 4 5 9 2 3
-4 5 3 2 9 1 6 8 7
-5 4 9 1 2 8 7 3 6
-8 2 1 6 3 7 4 5 9
-7 3 6 4 5 9 2 1 8
-2 9 5 3 8 6 1 7 4
-1 8 4 9 7 2 3 6 5
-3 6 7 5 1 4 8 9 2 
+EXEMPLO DE ENTRADA:</br>
+0 0 2 0 0 0 5 0 0</br>
+0 1 0 7 0 5 0 2 0</br>
+4 0 0 0 9 0 0 0 7</br>
+0 4 9 0 0 0 7 3 0</br>
+8 0 1 0 3 0 4 0 9</br>
+0 3 6 0 0 0 2 1 0</br>
+2 0 0 0 8 0 0 0 4</br>
+0 8 0 9 0 2 0 6 0</br>
+0 0 7 0 0 0 8 0 0</br>
+</br>
+EXEMPLO DE SAÍDA (para a entrada acima):</br>
+9 7 2 8 6 3 5 4 1</br>
+6 1 8 7 4 5 9 2 3</br>
+4 5 3 2 9 1 6 8 7</br>
+5 4 9 1 2 8 7 3 6</br>
+8 2 1 6 3 7 4 5 9</br>
+7 3 6 4 5 9 2 1 8</br>
+2 9 5 3 8 6 1 7 4</br>
+1 8 4 9 7 2 3 6 5</br>
+3 6 7 5 1 4 8 9 2</br>
